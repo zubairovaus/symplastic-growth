@@ -1,0 +1,14 @@
+# Citation metadata (GitHub reads this for "Cite this repository")
+cff-version: "1.2.0"
+message: "If you use this software, please cite it as below."
+title: "symplastic-growth"
+abstract: "Python library for modeling symplastic plant leaf growth (mechanics, cell division) and optional surrogate modeling."
+authors:
+  - family-names: Zubairova
+    given-names: Ulyana
+    email: u.zubairova@g.nsu.ru
+    affiliation: Novosibirsk State University
+repository-code: "https://github.com/zubairovaus/symplastic-growth"
+license: MIT
+version: "0.1.0"
+date-released: "2025-02-16"
